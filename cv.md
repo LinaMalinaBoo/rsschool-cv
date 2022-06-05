@@ -1,5 +1,6 @@
 # **ALINA TERESHCHENKOVA**
 ------------
+![My photo](\C:\Users\Компьютер\Desktop\rs_school\pic1.jpg)
 ------------
 ## **Main information**
 ------------
@@ -36,7 +37,7 @@ My hobby is drawing and painting. I'm interested in 3D modeling and computer gra
 ## **Experience**
 ------------
 1. Open Joint Stock Company "Scientific Testing Institute of Ergatic Systems", Researcher (2014)
-2. Open Joint Stock Company "Scientific Testing Institute of Ergatic Systems", Engineer of 1 category (2018)
+2. Open Joint Stock Company "Scientific Testing Institute of Ergatic Systems", Engineer of 1st category (2018)
 3. Open Joint Stock Company "Scientific Testing Institute of Ergatic Systems", Head of Information and Algorithmic Support Department (2019)
 4. Freelance (until now)
 ## **Languages**
