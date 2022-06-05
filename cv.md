@@ -1,6 +1,6 @@
 # **ALINA TERESHCHENKOVA**
 ------------
-![My photo](\\C:\Users\Компьютер\Desktop\rs_school\rsschool-cv\pic1.jpg)
+![My photo](https://avatars.githubusercontent.com/u/106664229?v=4)
 ------------
 ## **Main information**
 ------------
