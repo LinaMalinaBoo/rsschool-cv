@@ -12,6 +12,8 @@
 ## **About Me**
 ------------
 My hobby is drawing and painting. I'm interested in 3D modeling and computer graphics. My soft-skills is sociability, self-organization and creativity. I really like to get new knowledge and experience, so I decided to develop in programming.
+
+------------
 ## **Education**
 ------------
 * __University__: Moscow Aviation Technology University (2014), Engineer (Ergonomist)
@@ -40,6 +42,7 @@ My hobby is drawing and painting. I'm interested in 3D modeling and computer gra
 2. Open Joint Stock Company "Scientific Testing Institute of Ergatic Systems", Engineer of 1st category (2018)
 3. Open Joint Stock Company "Scientific Testing Institute of Ergatic Systems", Head of Information and Algorithmic Support Department (2019)
 4. Freelance (until now)
+------------
 ## **Languages**
 ------------
 * Russian - Native
