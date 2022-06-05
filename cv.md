@@ -1,6 +1,6 @@
 # **ALINA TERESHCHENKOVA**
 ------------
-![My photo](\C:\Users\Компьютер\Desktop\rs_school\pic1.jpg)
+![My photo](\\C:\Users\Компьютер\Desktop\rs_school\rsschool-cv\pic1.jpg)
 ------------
 ## **Main information**
 ------------
