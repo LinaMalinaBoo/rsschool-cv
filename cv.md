@@ -9,6 +9,7 @@
 * _Email_ hornet7@bk.ru
 * _GitHub_ [LinaMalinaBoo](https://github.com/LinaMalinaBoo)
 
+
 ## **About Me**
 
 My hobby is drawing and painting. I'm interested in 3D modeling and computer graphics. My soft-skills is sociability, self-organization and creativity. I really like to get new knowledge and experience, so I decided to develop in programming.
@@ -27,6 +28,7 @@ My hobby is drawing and painting. I'm interested in 3D modeling and computer gra
     + RS School (until now)
     JavaScript/Front-end
 
+
 ## **Skills**
 
 * Engineering (Ergonomics)
@@ -35,12 +37,14 @@ My hobby is drawing and painting. I'm interested in 3D modeling and computer gra
 * Adobe Photoshop
 * to be continued...
 
+
 ## **Experience**
 
 1. Open Joint Stock Company "Scientific Testing Institute of Ergatic Systems", Researcher (2014)
 2. Open Joint Stock Company "Scientific Testing Institute of Ergatic Systems", Engineer of 1st category (2018)
 3. Open Joint Stock Company "Scientific Testing Institute of Ergatic Systems", Head of Information and Algorithmic Support Department (2019)
 4. Freelance (until now)
+
 
 ## **Languages**
 
