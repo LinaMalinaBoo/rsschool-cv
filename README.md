@@ -1,1 +1,1 @@
-# [https://LinaMalinaBoo.github.io/rsschool-cv/cv](https://LinaMalinaBoo.github.io/rsschool-cv/cv)
+https://LinaMalinaBoo.github.io/rsschool-cv/cv
